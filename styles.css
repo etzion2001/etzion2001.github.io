@@ -1,0 +1,9 @@
+.dgraycell {background-color : #333333}
+.whitecell {background-color : #ffffff}
+
+caption {background-color : #333333}
+
+.menu:link {TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #fae44e}
+.menu:visited {TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #fae44e}
+.menu:active {TEXT-DECORATION: underline; FONT-WEIGHT: bold; COLOR: #FFFFFF}
+.menu:hover {TEXT-DECORATION: underline; FONT-WEIGHT: bold; COLOR: #FFFFFF}
