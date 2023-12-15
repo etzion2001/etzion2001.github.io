@@ -7,3 +7,5 @@ caption {background-color : #333333}
 .menu:visited {TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #fae44e}
 .menu:active {TEXT-DECORATION: underline; FONT-WEIGHT: bold; COLOR: #FFFFFF}
 .menu:hover {TEXT-DECORATION: underline; FONT-WEIGHT: bold; COLOR: #FFFFFF}
+
+.img-list-small { max-width: 152px; max-height: 152px; }
